@@ -1,6 +1,6 @@
 **
 
-## Pasos para utilizar Git Diff
+## Pasos para utilizar Git Diff (ver video en la parte superior Git Diff.mp4)
 
  1. Una vez ya creado el repositorio (Git init), sus respectivos archivos (touch) y luego de haberle hecho cambios seguir con el paso 2.
  2. Git add . (Agregando los archivos creados en el paso 1).
@@ -10,7 +10,7 @@
 	 4.2. Con un signo "-" y en rojo: mostrará las lineas de código que han eliminadas.
 
 
-## Pasos para utilizar Git Checkout
+## Pasos para utilizar Git Checkout (ver video en la parte superior Git Checkout.mp4)
 
 1. Este proceso se hace útil cuando se ha hecho más de un commit al repositorio.
 2. Una vez ya creado el repositorio (Git init), sus respectivos archivos (touch) y luego de haberle hecho cambios seguir con el paso 2.
