@@ -17,5 +17,3 @@
 3. Git log --oneline (Este comando muestra una ruta de cada uno de los commits mediante una especie de serial que se conforma con números y letras en donde HEAD señala la última versión).
 4. Git checkout "..." (Entre comillas se colocará la ruta deseada obtenida en el paso anterior y así se podrá visualizar el estado de esa ruta).
 5. Git checkout master (Este comando mostrará la última version existente en el repo).
-
-6. Hola Lucianny <b> Vergara </b>
